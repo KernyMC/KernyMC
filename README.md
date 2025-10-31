@@ -1,16 +1,79 @@
-<h1 align="center">Hi 👋, I'm Kevin Vargas</h1>
-<h3 align="center">A passionate frontend developer from Ecuador</h3>
+<h1 align="center">👋 Hi, I'm Kevin Vargas</h1>
+<h3 align="center">💡 Front-End Developer & AI Enthusiast from Ecuador</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kernymc&label=Profile%20views&color=0e75b6&style=flat" alt="kernymc" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kernymc" alt="kernymc" /></a> </p>
-
-- 🌱 I’m currently learning **Cibersecurity**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kevin-vargas-0941a0282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin vargas" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://kevdev.es" target="_blank"><img src="https://img.shields.io/badge/Portfolio-kevdev.es-blue?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://linkedin.com/in/kevin-vargas-0941a0282" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Kevin%20Vargas-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/KernyMC" target="_blank"><img src="https://img.shields.io/badge/GitHub-KernyMC-181717?style=for-the-badge&logo=github"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 About Me  
+🎓 Software Engineer (ESPE, Quito – 2025)  
+💼 Currently: **Webmaster & SEO/AEO/GEO Specialist at [LatinTrails – Voyagers Travel Ecuador](https://voyagers.travel)**  
+🧠 Focused on: **AI-Driven Web Development**, **Workflow Automation (n8n)**, and **UX/UI for tourism & education**  
+🌎 Passionate about using **AI to improve accessibility, education, and digital transformation in Latin America.**
+
+---
+
+### 🤖 Highlighted AI Projects  
+
+| 🧩 Project | 💬 Description | 🔗 Link |
+|------------|----------------|---------|
+| **Exam-Maker V2** | A platform for creating and managing engineering quizzes, with focus on accessibility, clean UI, and interactive UX. Built with **React, Node.js, and Firebase**. | [🔗 View Repo](https://github.com/KernyMC/Exam-MakerV2) |
+| **PaperMind** | AI-powered academic assistant using **LangChain & OpenAI API** for contextual text generation and document summarization. | [🔗 View Repo](https://github.com/KernyMC/PaperMind) |
+| **HackIAthon – Viamática** | Intelligent agent in **Python** with **vector memory** to analyze and compare public contracts, detect inconsistencies, and identify best offers. | [🔗 View Repo](https://github.com/KernyMC/HackIAthon---Viamatica) |
+| **Hackathon – OpenLAB (Corporación Favorita)** | Document management system for NGOs with **OpenAI conversational agent** to classify and retrieve files via natural language. | [🔗 View Repo](https://github.com/KernyMC/Hackathon---OpenLAB) |
+
+---
+
+### 💼 Professional Experience  
+
+- **LatinTrails / Voyagers Travel Ecuador** – *Webmaster & SEO-AEO-GEO Specialist*  
+  → Development & optimization of tourism websites with **React, WordPress, and Astro**.  
+  → Implemented **generative AI** for dynamic content & automation (n8n, Flamelink CMS).  
+
+- **Construex (Chasqi)** – *Software Development Intern*  
+  → Front-end dashboards with **React + Bootstrap** and real-time API integration.  
+
+- **ESPE UPDI / Reinado-ESPE** – *Software Developer*  
+  → Automated data pipelines with **Python** and **Visual Basic**, reducing manual tasks by 50%.  
+
+---
+
+### 🌱 Learning & Certifications  
+
+- **Google – “AI Generative Lead” (in progress)**  
+- **Diploma in Digital Transformation & Marketing (USFQ 2025)**  
+- **UNESCO STEM & AI Camp Facilitator (2025)**  
+
+---
+
+### 🧠 Skills & Stack  
+
+**Languages:** JavaScript (ES6+), Python, Java, C++, Dart (Flutter)  
+**Frameworks:** React, Node.js, Express, Astro, Next.js  
+**AI & Automation:** OpenAI API, LangChain, n8n, Flamelink, Vector DBs  
+**Databases:** MySQL, PostgreSQL, Firebase, MongoDB  
+**Tools:** Docker, Git/GitHub, Figma, Linux, Google Cloud  
+**Other:** SEO/AEO, UX/UI Design, Copywriting for Web Conversion  
+
+---
+
+### 🏆 Highlights  
+
+- 🧭 **iGEM Grand Jamboree 2025 – Web Team Leader**: Directed wiki design & development for ESPE Ecuador.  
+- 🧑‍🏫 **AI Educator at UNESCO STEM Camp 2025**: Led machine-learning sessions for kids from multiple nations.  
+- 🌍 **Aspire Leaders Program (Harvard Aspire Institute)** – Global Leadership Fellow 2025.  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KernyMC&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KernyMC&layout=compact&theme=tokyonight" alt="Top languages" height="150"/>
+</p>
+
+---
+
+<p align="center">✨ “Coding the bridge between creativity and intelligence.” ✨</p>
